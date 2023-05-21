@@ -35,6 +35,6 @@
    <h1> Thankyou, Happy Learning Guys</h1>
    <h1> Thankyou, Visit Again</h1>
    <h1> Thankyou, From Kubernetes</h1>
-   <h1> Congrats</h1>
+   <h1> Congrats Man</h1>
  
 </form>
